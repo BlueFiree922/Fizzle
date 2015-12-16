@@ -85,7 +85,7 @@ li a, h1 {
 li a:hover {
     background: #00ff99;
     position: relative;
-    border-radius: .3em .3em 0 0;
+    border-radius: .1em .1em 0 0;
     
 }
 
@@ -226,7 +226,7 @@ position:absolute; top: 435px; left: 25px; z-index: 3;
 
 .foot{
 Width:100%;
-height:5em;
+height:8em;
 float:left; 
 margin-top:50%;
 background: #66ff33;
@@ -240,7 +240,10 @@ margin-right:4em;
 float:left;
 }
 
+<<<<<<< HEAD:style.css
 
+=======
+>>>>>>> phonemedia:BPA/css/style.css
 .video{
 margin:10px 5px;
  float: left;
@@ -311,4 +314,7 @@ margin:10px 5px;
 
 }
 
+<<<<<<< HEAD:style.css
 
+=======
+>>>>>>> phonemedia:BPA/css/style.css
